@@ -14,11 +14,11 @@ Experimentation with Rust programming language to create a shell for Unix-based 
 ## To Use:
 To run the shell(dev):
 
-  cargo run
+    cargo run
 
 To build binary:
 
-  cargo build
+    cargo build
 
 ## Sources:
 first commit based on code from:
