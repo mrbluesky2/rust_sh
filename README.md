@@ -23,5 +23,6 @@ To build binary:
 ## Sources:
 first commit based on code from:
 https://www.joshmcguigan.com/blog/build-your-own-shell-rust/
+
 inspiration from:
 https://github.com/psinghal20/rush
